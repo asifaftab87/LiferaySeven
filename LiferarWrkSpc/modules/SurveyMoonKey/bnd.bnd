@@ -1,0 +1,4 @@
+Bundle-Name: SurveyMoonKey
+Bundle-SymbolicName: org.groom.tech
+Bundle-Version: 1.0.0
+Export-Package: org.groom.tech.constants
